@@ -1,52 +1,52 @@
-# Terms of Service for GSTechCon-disc-tooling
+    📄 Terms of Service for [Your Discord Bot Name]
 
-Last Updated: 4/8/2025
+Last Updated: [Date]
 
-Welcome to [Your Discord Bot Name]! These Terms of Service ("Terms") govern your access to and use of [Your Discord Bot Name] ("the Bot"), which is a Discord application provided by [Your Name or Company Name] ("we", "us", or "our"). By adding or using the Bot on a Discord server, you agree to be bound by these Terms.
+Welcome to [Your Discord Bot Name]! These Terms of Service ("Terms") govern your access to and use of [Your Discord Bot Name] ("the Bot"), a Discord application provided by [Your Name or Company Name] ("we", "us", or "our"). By using or adding the Bot to a server, you agree to these Terms.
 1. Use of the Bot
 
-    You must comply with Discord’s Terms of Service and Community Guidelines at all times.
+    You must comply with Discord’s Terms of Service and Community Guidelines.
 
-    You agree not to use the Bot for any illegal, harmful, or abusive activities.
+    You agree not to use the Bot for any illegal, harmful, abusive, or disruptive activities.
 
-    The Bot is intended for general use and is provided "as is" without any warranties or guarantees.
+    The Bot is provided "as is" and we make no guarantees regarding availability, functionality, or uptime.
 
 2. User Content and Data
 
-    The Bot may process messages or content from Discord servers in order to function.
+    The Bot may process server data such as messages or commands for functionality.
 
-    We do not store or share user data unless explicitly required for functionality and only with your consent or in accordance with our Privacy Policy.
+    We do not store or share user data beyond what is needed for the Bot to function.
 
-    You retain all rights to the content you submit or interact with, but you grant us a limited license to use it for providing the Bot's features.
+    By using the Bot, you grant us a limited license to process data necessary for its features.
 
 3. Privacy
 
-    We are committed to protecting your privacy. Please refer to our Privacy Policy for details on how we handle data.
+    Please read our Privacy Policy for details on how we handle data.
 
-    We do not knowingly collect personal information from users under the age of 13.
+    We do not knowingly collect personal data from users under 13 years of age.
 
 4. Termination
 
-    We reserve the right to remove the Bot from any server or restrict its use at any time, for any reason, without notice.
+    We reserve the right to remove the Bot from servers or restrict its access at any time.
 
-    You may remove the Bot from your server at any time.
+    You may remove the Bot at any time from your server.
 
 5. Limitation of Liability
 
-    The Bot is provided on an “as-is” basis. We make no guarantees regarding uptime, availability, or performance.
+    We are not liable for any damages or losses resulting from the use or inability to use the Bot.
 
-    We are not responsible for any direct, indirect, or incidental damages arising from your use or inability to use the Bot.
+    Use of the Bot is at your own risk.
 
 6. Changes to the Terms
 
-    We may update these Terms at any time. Continued use of the Bot after any changes constitutes your acceptance of the new Terms.
+    We may update these Terms at any time. Changes will be posted here.
+
+    Continued use of the Bot constitutes acceptance of the updated Terms.
 
 7. Contact
 
-If you have any questions or concerns about these Terms, you may contact us at:
-📧 gstechsupport@proton.me
-🌐 gstechcon.github.io
-
-Would you like me to tailor this for a specific bot (e.g., moderation, music, AI chatbot, etc.) or include a sample Privacy Policy as well?
+If you have any questions or concerns about these Terms, contact us:
+📧 [Your Email Address]
+🌐 [Your Website]
 
 ---
