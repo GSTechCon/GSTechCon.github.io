@@ -83,9 +83,12 @@ Question 1
 
 In network security design, which principle advocates for the use of cryptographic techniques to secure sensitive data and communications?
 
-- [] Defense in Depth
-- [] Complete mediation
-- [] Separation of Privilege
+- [ ] Defense in Depth
+- [ ] Complete mediation
+- [ ] Separation of Privilege
 - [x] Security
 
+## Lesson 1.2: Design Principles
+
+Watch the video on this page, which offers a comprehensive over of human-centered design, focusing on its four main principles: solving core root issues rather than superficial problems, prioritizing people in the design proces, adopting a systems view to understand interdependencies, and enaging in continuous prototyping and testing to ensure designs truly meet user needs.
 ---
