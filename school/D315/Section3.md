@@ -1,5 +1,6 @@
 # Section 3: Network Security Operations
 
+
 * Lesson 1: Principles of Network Security Design: Diving into the core principles that form the backbone of network security, this lesson lays the groundwork for understanding the broader context of network defense strategies. 
 * Lesson 2: Securing a Network: This lesson shifts focus to practical measures and techniques in securing a network, covering critical areas, such as firewalls, intrusion detection systems, and network segmentation. 
 * Lesson 3: Cloud and Wireless Security: Recognizing the shift toward cloud and wireless technologies, this lesson addresses the unique security challenges and solutions in these environments. 
@@ -76,5 +77,15 @@ Watch the video fo an in-depth exploration of various security policies - includ
 
 "Common security Policies" (7:14) Certified in Cybersecurity (CC): Security Best Practices & Security Awareness"
 
+### Knowledge Check
+
+Question 1
+
+In network security design, which principle advocates for the use of cryptographic techniques to secure sensitive data and communications?
+
+- [] Defense in Depth
+- [] Complete mediation
+- [] Separation of Privilege
+- [x] Security
 
 ---
