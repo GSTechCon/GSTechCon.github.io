@@ -71,6 +71,8 @@ alert icmp any any -> $HOME_NET any (msg:"testing ICMP";sid:100001; rev:1; class
 
 SNORT community has thousands of rule templates
 
+---
+
 ## Lesson 1.1: Security Policies
 
 Watch the video fo an in-depth exploration of various security policies - including data handling, password polocies, acceptable use, and BYOD.
@@ -88,7 +90,29 @@ In network security design, which principle advocates for the use of cryptograph
 - [ ] Separation of Privilege
 - [x] Security
 
+---
+
 ## Lesson 1.2: Design Principles
 
 Watch the video on this page, which offers a comprehensive over of human-centered design, focusing on its four main principles: solving core root issues rather than superficial problems, prioritizing people in the design proces, adopting a systems view to understand interdependencies, and enaging in continuous prototyping and testing to ensure designs truly meet user needs.
+
+### Human-centered design principles
+
+* Ensure the root problem is solved and not the symptom.
+* The people need to be the main focus of the design proccess
+* focus on the system interactions and not just on one part
+* perform prototyping and testing iteratively and quickly
+
+### Root Problem Identification
+
+* focus on the cause of the problem and not the symptoms
+* needs to be a integral part of the design process
+    + importnat because you could end up attempting to solve the **wrong** problem
+* solving fundamental problems will assist with **root** problems
+
+## People-Centered Approach
+
+* focus should be on people and not technology
+
+
 ---
