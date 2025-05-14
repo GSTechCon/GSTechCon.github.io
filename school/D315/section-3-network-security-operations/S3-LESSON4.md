@@ -1,3 +1,8 @@
+# Lesson 4: User Authentication and Access Control
+
+## Lesson 4.1: User Authentication and Access Control
+
+## Lesson 4.2: Zero Trust Architecture
 
 ---
 
