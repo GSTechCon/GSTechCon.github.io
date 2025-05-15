@@ -6,6 +6,13 @@ Welcome! This domain is currently a work in progress.
 
 <img src="./img/GS-Tech-Consulting-PP.png" alt="logo" width="200"/>
 
+---
+
+## School
+
+* [D315 - Network and Security - Foundations](./school/README.md)
+
+<!-- 
 ## Cloud
 
 ### AWS
@@ -15,5 +22,5 @@ Welcome! This domain is currently a work in progress.
 ### Azure
 
 ### GCP
-
+-->
 ---
