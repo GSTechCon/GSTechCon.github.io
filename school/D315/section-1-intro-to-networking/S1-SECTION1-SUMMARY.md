@@ -10,7 +10,7 @@ Take a moment to think about what you learned:
 
 # ---
 
-[🔜 Next Section](../section-2-intro-to-network-security/S2-intro-to-network-security.md
+[🔜 Next Section](./S1-LESSON1.md)
 
 [🔙 Back to Main Page](../../README.md)
 

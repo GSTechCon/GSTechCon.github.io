@@ -27,6 +27,6 @@ To prepare for the objective assessment, ask yourself these questions:
 
 ---
 
-[🔜 Next Section]()
+[🔜 Next Section](./S1-LESSON1-INTRO.md)
 
 [🔙 Back to Main Page](../../README.md)

@@ -6,7 +6,17 @@ Watch this [Intro to networks](https://www.youtube.com/watch?v=WO6P92v61y4) cras
 
 ### Video Notes
 
+---
 
+Watchi this video [Computer Network Types (needs edu access)](https://wgu.percipio.com/videos/b39f2704-a8c9-408d-80dc-0cbfbaed9737)
+
+### Video Notes
+
+* Local Area Network (LAN)
+    + benefits
+        - quick communication
+        - reliable and fast transmission
+        - resource sharing
 
 ## Lesson 1.2: 
 ## Lesson 1.3: 

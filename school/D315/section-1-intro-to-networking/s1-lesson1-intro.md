@@ -9,6 +9,6 @@ Identify foundational network technology concepts.
 
 ---
 
-[🔜 Next Section]()
+[🔜 Next Section](./S1-LESSON1.md)
 
 [🔙 Back to Main Page](../../README.md)
