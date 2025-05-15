@@ -1,9 +1,11 @@
 # Section 1: Introduction to Networking Concepts
 
-* Lesson 1: What Is a Network: Learn the fundamentals of networking, exploring how individual devices come together to share, collaborate, and create the networks that enable modern communication. 
-* Lesson 2: Network Commands: Command your way through the technical complexities with hands-on learning of essential network commands that form the everyday toolkit of network troubleshooters. 
-* Lesson 3: Networking Standards and Models: Navigate the blueprint of networking protocols and models—such as the OSI and TCP/IP models—and gain an understanding of how these standards are essential for creating harmonious, universal communication systems. 
-* Lesson 4: Fundamentals of Virtual and Cloud Computing: Demystify cloud computing, revealing how virtualization transforms physical resources into flexible, scalable, and accessible services. 
+
+
+* **Lesson 1: What Is a Network**: Learn the fundamentals of networking, exploring how individual devices come together to share, collaborate, and create the networks that enable modern communication. 
+* **Lesson 2: Network Commands**: Command your way through the technical complexities with hands-on learning of essential network commands that form the everyday toolkit of network troubleshooters. 
+* **Lesson 3: Networking Standards and Models**: Navigate the blueprint of networking protocols and models—such as the OSI and TCP/IP models—and gain an understanding of how these standards are essential for creating harmonious, universal communication systems. 
+* **Lesson 4: Fundamentals of Virtual and Cloud Computing**: Demystify cloud computing, revealing how virtualization transforms physical resources into flexible, scalable, and accessible services. 
 
 ## Build Employability Skills and Competence
 

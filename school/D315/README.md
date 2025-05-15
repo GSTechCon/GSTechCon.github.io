@@ -5,7 +5,7 @@
 - [ ] Section 1: 
     - [ ] Section 1: Introduction to Networking Concepts
         - [ ] Lesson 1:   
-            - [ ] Lesson 1.1: Intro
+            - [ ] [Lesson 1.1: Intro](./section-1-intro-to-networking/s1-intro-to-network-security.md)
             - [ ] Lesson 1.2: Network History
             - [ ] Lesson 1.3: Networking Components
             - [ ] Lesson 1.4: Enterprise vs. Home Office

@@ -1,6 +1,11 @@
 # Lesson 3: Networking Standards and Models
 
+Ethernet 802.11 Standards
+
 ## Lesson 3.1: Standards
+
+
+
 ## Lesson 3.2: TCP/IP Model
 
 TCP/IP model is about making network connectivity available. OSI is conceptual, wheras the TCP/IP is based on the actual connection stack. 
@@ -21,6 +26,8 @@ TCP/IP model is about making netowrk connectivity more available.
 
 ---
 
-[🔜 Next Section](./S3-LESSON2.md)
+[🔜 Next Section](./S1-LESSON4.md)
+
+[🔙 Back to Previous Section](./S1-LESSON2.md)
 
 [🔙 Back to Main Page](../../README.md)
