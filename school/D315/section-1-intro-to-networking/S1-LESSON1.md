@@ -2,6 +2,12 @@
 
 ## Lesson 1.1: Network History
 
+Watch this [Intro to networks](https://www.youtube.com/watch?v=WO6P92v61y4) crash course.
+
+### Video Notes
+
+
+
 ## Lesson 1.2: 
 ## Lesson 1.3: 
 ## Lesson 1.4: 

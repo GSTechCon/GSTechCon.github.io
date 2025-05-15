@@ -1,6 +1,6 @@
 # Section 1: Introduction to Networking Concepts
 
-
+This section covers 4 major competencies
 
 * **Lesson 1: What Is a Network**: Learn the fundamentals of networking, exploring how individual devices come together to share, collaborate, and create the networks that enable modern communication. 
 * **Lesson 2: Network Commands**: Command your way through the technical complexities with hands-on learning of essential network commands that form the everyday toolkit of network troubleshooters. 

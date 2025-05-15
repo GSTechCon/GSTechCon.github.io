@@ -4,17 +4,17 @@
 
 - [ ] Section 1: 
     - [ ] Section 1: Introduction to Networking Concepts
-        - [ ] Lesson 1:   
-            - [ ] [Lesson 1.1: Intro](./section-1-intro-to-networking/s1-intro-to-network-security.md)
-            - [ ] Lesson 1.2: Network History
-            - [ ] Lesson 1.3: Networking Components
-            - [ ] Lesson 1.4: Enterprise vs. Home Office
-            - [ ] Lesson 1.5: Network Devices
-            - [ ] Lesson 1.6: Cables and Connecters
-            - [ ] Lesson 1.7: Topologies
-            - [ ] Lesson 1.8: Network Deployments
-            - [ ] Lesson 1.9: Types of Network Architecture
-            - [ ] Lesson 1: Summary
+        - [X] Lesson 1:   
+            - [x] [Lesson 1.1: Intro](./section-1-intro-to-networking/s1-intro-to-network-security.md)
+            - [x] Lesson 1.2: Network History
+            - [x] Lesson 1.3: Networking Components
+            - [x] Lesson 1.4: Enterprise vs. Home Office
+            - [x] Lesson 1.5: Network Devices
+            - [x] Lesson 1.6: Cables and Connecters
+            - [x] Lesson 1.7: Topologies
+            - [x] Lesson 1.8: Network Deployments
+            - [x] Lesson 1.9: Types of Network Architecture
+            - [x] Lesson 1: Summary
         - [ ] Lesson 2: Network Commands  
             - [ ] Lesson 2: Intro
             - [ ] Lesson 2.1: Using Windows Commands

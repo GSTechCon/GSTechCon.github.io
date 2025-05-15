@@ -1,8 +1,10 @@
 # GS Technical Consultants
 
-Welcome! This domain is currently a work in progress. Anticipated production deployment is estimated for end of April.
+Welcome! This domain is currently a work in progress.
 
-![Logo](./img/GS-Tech-Consulting-PP.png)
+<!-- ![Logo](./img/GS-Tech-Consulting-PP.png)-->
+
+<img src="./img/GS-Tech-Consulting-PP.png" alt="logo" width="200"/>
 
 ## Cloud
 
