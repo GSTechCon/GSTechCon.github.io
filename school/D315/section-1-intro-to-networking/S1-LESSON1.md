@@ -137,8 +137,12 @@ Newell, B. (2023, Apr.). Information security for leaders: An introduction to In
 
 ---
 
+## Lesson 1.2: Networking Components
 
-## Lesson 1.2: 
+Complete this activity: it's a silly infographic with some definitions of various network and IT hardware.
+
+![Infographic Section1 Lesson1.2](../imgs/section1-lesson1.2_2025-05-15.png)
+
 ## Lesson 1.3: 
 ## Lesson 1.4: 
 ## Lesson 1.5: 
