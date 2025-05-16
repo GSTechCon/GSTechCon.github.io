@@ -143,12 +143,31 @@ Complete this activity: it's a silly infographic with some definitions of variou
 
 ![Infographic Section1 Lesson1.2](../imgs/section1-lesson1.2_2025-05-15.png)
 
+---
+
 ## Lesson 1.3: 
+
+---
+
 ## Lesson 1.4: 
+
+---
+
 ## Lesson 1.5: 
+
+---
+
 ## Lesson 1.6: 
+
+---
+
 ## Lesson 1.7: 
+
+---
+
 ## Lesson 1.8: 
+
+--
 
 ## Lesson 1.9: Types of Network Architecture 
 
