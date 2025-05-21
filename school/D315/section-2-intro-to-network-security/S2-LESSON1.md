@@ -54,6 +54,16 @@ understanding a threat actor is critical
 * is exploitable if discovered
 * can also be found in the security controlo or countermeasure
 
+--- 
+
+Watch [Attack Types]() and [Common Security Threats]() In "
+
+
+---
+
+Complete the following activity.
+
+
 
 ---
 

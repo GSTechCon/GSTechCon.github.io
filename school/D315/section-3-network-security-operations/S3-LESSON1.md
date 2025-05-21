@@ -8,6 +8,12 @@
 
 ## Lesson 1.3: Least Privilege
 
+This lesson provides an in-depth explanation of the principles of least prvilege in cybersecurity - focusing on granting minimal neccesary permission to users and applications, limiting access based on tasks and time, the importance of structuring security levels to minimize exposure and risk.
+
+
+---
+
+
 ## Lesson 1.4: Fail-Safe Defaults
 
 ## Lesson 1.5: Economy of Mechanism
