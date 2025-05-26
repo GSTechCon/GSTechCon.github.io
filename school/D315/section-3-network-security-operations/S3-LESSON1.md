@@ -56,6 +56,26 @@ Error/Exception handling are handled in a predictable and acceptable way. One fa
 
 ## Lesson 1.11: Trust
 
+---
+
+## Section 23 - Lesson 1: Summary
+
+Take a moment to think about what you learned in this lesson:
+
+* Human-centered design focuses on solving root issues (not just symptoms) with people as the central focus, adopting a systems view, and engaging in continuous prototyping and testing. 
+* Least privilege involves granting minimal necessary permissions to users and applications, thus limiting access based on tasks and time to minimize exposure and risk. 
+* Fail-safe design ensures that systems fail securely without compromising security, with errors and exceptions handled predictably and acceptably. This design also emphasizes the adoption of principles like "deny by default." 
+* Separation of duties requires multiple parties for task completion to prevent misuse of permissions. It also involves the use of secret sharing in sensitive scenarios. 
+* Least common mechanism minimizes unintentional information sharing by avoiding shared mechanisms among users and processes and instead favoring separate, isolated processes. 
+* Psychological acceptability refers to the idea that security systems should be user-friendly and not impede users' tasks, as complex security measures might lead to bypassing and compromises. 
+* The zero trust model emphasizes distrust by default—requiring strong authentication, least privilege, active monitoring, and rigorous authorization processes. 
+* Security policy concepts include data handling, password policies, acceptable use, and BYOD policies. These policies emphasize the importance of clear guidelines and user compliance for security. 
+
+## Next Steps
+
+After exploring the foundational principles of cybersecurity in Lesson 1, you should now apply these concepts practically in Lesson 2, "Securing a Network." This next step includes understanding and implementing various network security measures, such as firewalls, cloud and wireless security, encryption, and network device hardening. You can leverage your knowledge of human-centered design, least privilege, and zero trust models to inform decisions on network security configurations and policies and ensure a robust and user-friendly security infrastructure. This transition from theoretical principles to practical applications is crucial for a comprehensive understanding of cybersecurity.  
+
+---
 
 ---
 

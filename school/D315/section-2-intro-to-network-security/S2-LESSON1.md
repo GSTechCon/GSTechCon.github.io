@@ -54,10 +54,19 @@ understanding a threat actor is critical
 * is exploitable if discovered
 * can also be found in the security controlo or countermeasure
 
---- 
-
 Watch [Attack Types]() and [Common Security Threats]() In "
 
+---
+
+## 1.10: Psychological Acceptability
+
+Psychological acceptability emphasizes the importance of designing security systems that are user-friendly and do not obstruct or impede users' tasks—as overly complex or inconvenient security measures may cause users to find ways to bypass them, thus compromising the system's security.
+
+--- 
+
+## 1.11: Trust
+
+According to the zero trust model, you should no longer believe that you are completely safe once you are behind strong firewalls and stringent security. Distrust must be your initial assumption when considering security because there will always be a threat—whether it is an active threat or a potential future threat.
 
 ---
 

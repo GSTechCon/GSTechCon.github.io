@@ -2,6 +2,10 @@
 
 ## Lesson 2.1: Firewalls
 
+* firewall controls the flow of traffic by preventing unauthorized traffic from entering or leaving a particular segment of a network.
+
+![firewall](../imgs/firewall-screenshot-2025-05-26.png)
+
 ## Lesson 2.1: IDS - IPS
 
 ## Lesson 2.3: Encryption Techniques and Methods
