@@ -11,6 +11,7 @@ Welcome! This domain is currently a work in progress.
 ## School
 
 * [D315 - Network and Security - Foundations](./school/README.md)
+* [D337 - Internet of Things](./school/D337/README.md)
 
 <!-- 
 ## Cloud
